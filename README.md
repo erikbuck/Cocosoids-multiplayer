@@ -1,6 +1,9 @@
 # Cocosoids-multiplayer
 Network multiplayer "Asteroids" style game using Python 2.7, Cocos2D, and PodSixNet.
-This version extends Cocosoids-single with client-server TCP/IP network multi-plater based on PodSixNet. https://github.com/chr15m/PodSixNet
+This version extends Cocosoids-single with client-server TCP/IP network multi-plater based on PodSixNet. 
+
+- https://github.com/los-cocos/cocos
+- https://github.com/chr15m/PodSixNet
 
 For comparison to the single player version:
 
